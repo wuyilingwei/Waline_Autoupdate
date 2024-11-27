@@ -1,4 +1,4 @@
-# Auto-Update for Waline with GitHub Actions
+# Auto-Update for Waline(Vercel) with GitHub Actions
 
 This project automates updates for the Waline Vercel deployment, ensuring your environment stays up-to-date with minimal effort. The solution leverages GitHub Actions to trigger automatic Vercel deployments whenever there's an update to the Waline package.
 
