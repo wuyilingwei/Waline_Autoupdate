@@ -48,4 +48,4 @@ Vercel API Triggers: Using a scheduled API call to trigger deployment (requires 
 
 Direct Deployment Command: Sending deployment commands via GitHub Action (adds configuration complexity and potential security risks).
 
-~~I'm not interest to write this, this readme was created by OPENAI.~~
+~~I'm not interest to write this, this readme was created by OPENAI. (based on my blog)~~
