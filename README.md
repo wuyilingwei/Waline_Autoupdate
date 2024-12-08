@@ -16,6 +16,16 @@ Scheduled Automation: Deploys automatically on a monthly schedule, with addition
 
 ## Steps to Set Up
 
+### For New Waline:
+
+1. Fork this repository
+
+2. Go to Vercel, deploy a project by fork repository
+
+3. Setup.
+
+### For Exist Waline:
+
 1. Connect Vercel Project to GitHub Repository
 
 Ensure your Vercel project is linked to your GitHub repository. If not, manually create a connection in the Vercel dashboard.
