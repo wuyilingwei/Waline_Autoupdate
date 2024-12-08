@@ -1,0 +1,24 @@
+{
+  "name": "comment",
+  "github": {
+    "silent": true
+  },
+  "builds": [
+    {
+      "src": "index.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "index.js"
+    }
+  ],
+  "crons": [
+    {
+      "path": "/api/trigger",
+      "schedule": "0 0 1 * *"
+    }
+  ]
+}
